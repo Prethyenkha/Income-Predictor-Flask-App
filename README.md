@@ -30,8 +30,6 @@ cd "your/project/path"
 python app.py
 ```
 
-## 📦 Model Info
-Trained on features: `age`, `experience` to predict `income`.
+## 🖼️ App Preview
 
-## 🔒 License
-Free to use for learning and education.
+<img width="1364" height="626" alt="Screenshot 2025-08-05 144924" src="https://github.com/user-attachments/assets/a28b4916-13e9-4d48-a7a2-a2050ac1fcf4" />
